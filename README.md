@@ -23,14 +23,15 @@ This project demonstrates core concepts of frontend development such as **DOM ma
 ---
 
 ## 📂 Repository Structure
-├── index.html 
 # Main HTML file
-├── style.css 
+├── index.html 
 # Stylesheet
-├── script.js 
+├── style.css 
 # JavaScript logic
-└── README.md 
+├── script.js 
 # Project documentation
+└── README.md 
+
 
 
 ---
